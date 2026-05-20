@@ -55,6 +55,30 @@ The platform follows a clean three-tier architecture:
 - Scheduled financial tasks
 - Activity logging and auditing
 
+### Secure Multi-Method Authentication
+
+- Password login
+- OTP verification
+- 2FA support
+- Role-based access
+
+![Authentication](Login.png)
+
+### Branch & Staff Administration
+
+Manage managers, field executives, and operational hierarchy across branches.
+
+![Managers](manager.png)
+
+### Loan Lifecycle Management
+
+- Loan approvals
+- Repayment tracking
+- Outstanding balance monitoring
+- Workflow-based processing
+
+![Loans](loan.png)
+
 ## 📐 System Design
 
 The system implements several key architectural patterns:
